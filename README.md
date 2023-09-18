@@ -5,7 +5,7 @@
 ```java
 public class MyClass {
     // 클래스 멤버 변수, 메서드 등을 정의할 수 있다.
-}```
+}
 
 
 2. 다음은 10과 20을 더해 합을 출력하려고 작성한 자바프로그램이지만 오류가 있다.
@@ -23,7 +23,7 @@ public class SampleProgram {
 
         System.out.println(i + j);
     }
-}```
+}
 
 1) 오류를 찾아내어 고쳐라
     - 이 코드에서 특별한 오류는 없다
