@@ -10,7 +10,7 @@ public class MyClass {
 
 2. 다음은 10과 20을 더해 합을 출력하려고 작성한 자바프로그램이지만 오류가 있다.
 
-```java
+java
 package week0301;
 
 public class SampleProgram {
