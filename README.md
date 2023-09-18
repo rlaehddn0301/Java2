@@ -22,7 +22,8 @@ public class SampleProgram {
 
         System.out.println(i + j);
     }
-}```
+}
+```
 
     1) 오류를 찾아내어 고쳐라
         - 이 코드에서 특별한 오류는 없다
